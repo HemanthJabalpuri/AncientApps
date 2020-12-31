@@ -1,5 +1,7 @@
 ### AncientApps
 
+[![GitHub repo size](https://img.shields.io/github/repo-size/HemanthJabalpuri/AncientApps)](https://github.com/HemanthJabalpuri/AncientApps/archive/main.zip)
+
 Here, I will list some of the apps that are Android 1.6+ supported.
 It is useful for app developers, people who want to use their old android(either in mobile or in emulator).
 Emulator does not ship with Market or Play Store. We have to download .apk files to install and use apps.
