@@ -5,6 +5,11 @@ Dolphin Browser Mini http://apkfind.com/dl5/apk/2017/3/11/com.dolphin.browser_32
 ADW.Launcher 1 1.3.4.0(67) https://m.apkpure.com/adw-launcher-one/org.adw.launcher.one
 
 RockOn =(Music Player) https://m.apkhere.com/down/org.abrantes.filex_1.4.10_free
+
+RockPlayer
+https://apkcombo.com/rockplayer-universal/com.redirectin.rockplayer.android.unified/download/apk
+https://m.apkpure.com/rockplayer-lite/com.redirectin.rockplayer.android.unified.lite
+
 ES File Explorer https://www.apkmirror.com/apk/es-global/es-file-explorer-old/es-file-explorer-2-1-6-0-4-release/es-file-explorer-1-6-0-4-android-apk-download/
 Linda Manager https://apkfree.com/download/linda-manager-1.5.12
 AK Notepad https://m.apkhere.com/down/com.akproduction.notepad_2.4.6_free
