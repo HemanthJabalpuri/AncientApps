@@ -4,6 +4,7 @@ Here, I will list some of the apps that are Android 1.6+ supported.
 It is useful for app developers, people who want to use their old android(either in mobile or in emulator).
 Emulator does not ship with Market or Play Store. We have to download .apk files to install and use apps.
 Some mobiles does not ship with Market or Play Store.
+Older versions of .apks in F-Droid can be downloaded from F-Droid Archive repo. We can also download these in web at https://apt.izzysoft.de/fdroid/index.php?repo=archive  
 
 In these two scenarios, this list of apps will be helpful.
 
