@@ -42,3 +42,50 @@ DroidWall https://f-droid.org/en/packages/com.googlecode.droidwall
 App Tracker https://f-droid.org/en/packages/com.nolanlawson.apptracker
 Alarm Klock 1.10(11) https://f-droid.org/en/packages/com.angrydoughnuts.android.alarmclock
 
+
+=== Some more apps ===
+OpenDocument Reader
+Frozen Bubble 3.4 https://f-droid.org/archive/org.jfedor.frozenbubble_37.apk
+Sokoban 1.11
+MathDoku
+Rehearsal Assistant
+AnStop
+Network Discovery
+Speech Trainer
+asqlite manager 3.5(16)
+Simple Chess Clock 1.2.0 https://f-droid.org/archive/com.chessclock.android_8.apk
+Contact owner
+Bubble 1.9.4(33)
+CrossWords 4.4-beta38 https://f-droid.org/archive/org.eehouse.android.xw4_30.apk
+Aard 1.4.1 https://f-droid.org/archive/aarddict.android_13.apk
+Marine Compass
+Klaxon
+Barnacle wifi tether
+RPN 1.8.1(10)
+Taps of fire
+Forecast widgets
+Anymemo 8.3.0 https://f-droid.org/archive/org.liberty.android.fantastischmemo_135.apk
+Compass (net.micode.compass)
+E numbers 1.3.0(14)
+CMIS Browser
+24h analog clock 0.3.1(5)
+DotDash Keyboard
+GM Dice 0.1.6(7)
+Unicode Map
+Diode
+Irssi ConnectBot
+Asqare
+DesktopLabel
+OS Monitor 2.0.5 https://f-droid.org/archive/com.eolwral.osmonitor_28.apk
+RingyDingDingy
+Battery widget
+Barcode Box 2
+Stickeroid
+Logcat to UDP
+Link Shortener for Tiny URL
+HNDroid
+AppAlarm pro
+Coin Flip
+Speedo
+Chord Reader
+Battery Widget org.androidappdev.batterywidget
