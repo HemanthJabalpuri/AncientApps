@@ -18,4 +18,4 @@ Digital Clock Widget 2.1.9(64)
 Rings Extended 1.3(10300)
 PicSay 1.5.0.1(17104897)
 Foxy Photo Editor Beta
-
+InBrowser 2.14(46)
