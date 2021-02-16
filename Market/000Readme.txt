@@ -1,5 +1,5 @@
 MortPlayer Music 0.9.9i(213)
-Meridian Player 3.0.11(503001100)
+Meridian Player 3.0.11(503001100), 3.0.10(503001000), 2.7.8c(402070800), 2.6.2c(402060200)
 Explorer 1.1(16)
 Total Commander 2.90(229)
 ASTRO 2.5.2(56)
